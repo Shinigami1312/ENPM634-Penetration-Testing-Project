@@ -1,4 +1,4 @@
-# ENPM634 - Penetration Testing Report
+# ENPM634 - Penetration Testing Project
 
 **Repository:** Pumpkins Web App Penetration Test
 
