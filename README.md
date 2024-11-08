@@ -1,7 +1,5 @@
 # ENPM634 - Penetration Testing Project
 
-**Repository:** Pumpkins Web App Penetration Test
-
 ## Overview
 
 This repository contains a penetration test report conducted on the ENPM634 Pumpkins web application, a Capture-the-Flag (CTF) style midterm project. The objective was to uncover the full name of the web app's creator by exploiting vulnerabilities and following a series of clues within the application.
